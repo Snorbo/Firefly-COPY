@@ -4,11 +4,6 @@ published: 2026-08-26
 description: 这是一篇关于如何写文章的记录
 tags: [示例]
 category: 示例
-draft: false  #是否为草稿，草稿不会对读者可见
-pinned: false #是否置顶在文章列表顶部
-author: Snorbo #作者
-password: "123456"  #无此项则不加密
-passwordHint: "123456"  #密码提示
 ---
 
 :::note
