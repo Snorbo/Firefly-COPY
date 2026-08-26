@@ -115,6 +115,12 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				external: true,
 				icon: "fa7-brands:chrome",
 			},
+			{
+				name: "新闻源",
+				url: "https://www.worldmonitor.app/dashboard",
+				external: true,
+				icon: "fa7-brands:chrome",
+			},
 		],
 	});
 
