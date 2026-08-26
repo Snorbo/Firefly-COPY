@@ -1,5 +1,5 @@
 ---
-title: [NQ]Evoxt测评留档
+title: Evoxt测评留档
 published: 2026-08-26
 description: 月付3.32U
 tags: [测评]
